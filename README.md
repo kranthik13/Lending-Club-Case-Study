@@ -27,7 +27,7 @@ Historical Loan Data provided
 
 Important solution content : 
 
-1. [EDA](Group_Facilitator_Nitin_Kumar.ipynb) : The full Exploratory Data Analysis notebook which contains all the analysis done
+1. [EDA Notebook](Group_Facilitator_Nitin_Kumar.ipynb) : The full Exploratory Data Analysis notebook which contains all the analysis done
 2. [Final Presentation](EDA-results.pdf) : The presentation in a pdf format (short version) (this doesn't contain the appendix plots)
 3. [Final Presentation-long](EDA-results.pptx) : The full presentation which contains all the plots and analysis (long version)
 
