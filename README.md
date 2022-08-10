@@ -37,8 +37,9 @@ Important solution content :
 
 
 ## Technologies Used
-1. Plotly
-2. Pandas
+1. Plotly==5.3.1
+2. Pandas==1.2.4
+3. Numpy==1.22.3
 
 
 ## Contact
