@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Problem Statement](#problem-statement)
 * [Solution Flow](#solution-flow)
+* [Solution Content](#solution-content)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 
@@ -20,11 +21,19 @@ Historical Loan Data provided
 
 
 ## Solution Flow
-![alt text](architecture.png "Solution Architecture")
+![Solution Architecture](architecture.png "Solution Architecture")
+
+## Solution Content
+
+Important solution content : 
+
+1. [EDA](EDA.ipynb) : The full Exploratory Data Analysis notebook which contains all the analysis done
+2. [Final Presentation](EDA-results.pdf) : The presentation in a pdf format (short version) (this doesn't contain the appendix plots)
+3. [Final Presentation-long](EDA-results.pptx) : The full presentation which contains all the plots and analysis (long version)
 
 
 ## Conclusions
-![alt text](conclusion.png "Business Drivers")
+![Business Drivers](conclusion.png "Business Drivers")
 
 
 ## Technologies Used
